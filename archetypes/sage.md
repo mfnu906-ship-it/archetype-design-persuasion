@@ -36,7 +36,9 @@ Wikipedia is another example that fits the Sage archetype because its main purpo
 
 **Call to action:** Get the free guide
 
-**Image:** AI-generated hero image — labeled as an AI-assisted design concept.
+![ClearPath Learning — De Stijl hero design](../assets/DeStijl.png)
+
+*AI-generated hero image — labeled as an AI-assisted design concept.*
 
 The De Stijl style uses geometric forms, straight lines, structured layouts, and a limited color palette. This organized visual system supports the Sage archetype by creating a clear and focused presentation of information. Reciprocity is applied by offering a useful research guide for free.
 
@@ -56,7 +58,9 @@ The De Stijl style uses geometric forms, straight lines, structured layouts, and
 
 **Call to action:** Get the free guide
 
-**Image:** AI-generated hero image — labeled as an AI-assisted design concept.
+![ClearPath Learning — Memphis hero design](../assets/Memphis.png)
+
+*AI-generated hero image — labeled as an AI-assisted design concept.*
 
 Memphis Design uses bright colors, geometric shapes, playful patterns, and unexpected visual combinations. These characteristics give the Sage message a more approachable and expressive appearance while keeping the information easy to identify. Social Proof can be applied through real learner reviews, documented recommendations, or verified community experiences rather than invented testimonials.
 
