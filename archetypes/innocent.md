@@ -36,7 +36,7 @@ Coca-Cola is another example often associated with the Innocent archetype. Its a
 
 **Call to action:** Get the free guide
 
-**Image:** AI-generated hero image — labeled as an AI-assisted design concept.
+![Common Ground Coffee — De Stijl hero design](../assets/De%20Stijl.png)
 
 The De Stijl design uses simple geometric shapes, a structured layout, and a limited color palette to create a clean and organized appearance. These choices support the Innocent archetype through simplicity and clarity, while Reciprocity is used by giving the visitor a free brewing guide.
 
@@ -56,7 +56,7 @@ The De Stijl design uses simple geometric shapes, a structured layout, and a lim
 
 **Call to action:** Get the free guide
 
-**Image:** AI-generated hero image — labeled as an AI-assisted design concept.
+![Common Ground Coffee — Memphis hero design](../assets/Memphis.png)
 
 The Memphis design uses bright colors, geometric shapes, playful patterns, and an energetic composition while keeping the message simple and friendly. These choices give the Innocent archetype a more playful appearance, while Social Proof can be used through real customer recommendations or community examples rather than invented testimonials.
 
