@@ -40,7 +40,9 @@ National Geographic can also represent the Explorer archetype because its conten
 
 **Call to action:** Get the free guide
 
-**Image:** AI-generated hero image — labeled as an AI-assisted design concept.
+![Trailbound Outdoor — Bauhaus hero design](../assets/Bauhaus.png)
+
+*AI-generated hero image — labeled as an AI-assisted design concept.*
 
 The Bauhaus approach uses functional layouts, geometric forms, simple typography, and an organized visual structure. These choices support the Explorer archetype by keeping the message clear and focused on the experience of exploration. Reciprocity is applied by offering a useful adventure planning guide for free.
 
@@ -64,8 +66,9 @@ The Bauhaus approach uses functional layouts, geometric forms, simple typography
 
 **Call to action:** Get the free guide
 
-**Image:** AI-generated hero image — labeled as an AI-assisted design concept.
+![Trailbound Outdoor — Memphis hero design](../assets/Memphis.png)
 
+*AI-generated hero image — labeled as an AI-assisted design concept.*
 Memphis Design uses bright colors, geometric shapes, playful patterns, and energetic compositions. These characteristics can give the Explorer message a more playful and expressive appearance. Social Proof can be applied through real customer reviews, verified community recommendations, or documented user experiences rather than invented testimonials.
 
 **Style reference:** [Design Museum — Memphis Group](https://designmuseum.org/discover-design/all-stories/memphis-group-awful-or-awesome)
